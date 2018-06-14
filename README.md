@@ -3,6 +3,10 @@
 ![ECMAScript 5.1](https://img.shields.io/badge/es-5-brightgreen.svg)
 ![Github file size](https://img.shields.io/github/size/vikseriq/requirejs-vue/requirejs-vue.js.svg)
 
+_NOTE: This version is forked from the original: https://github.com/vikseriq/requirejs-vue_
+
+_This version has been modified to export inline css from vue files when using the requirejs optimizer._
+
 A Vue.js [Single File Components](https://vuejs.org/v2/guide/single-file-components.html) loader plugin for
 [RequireJS](https://github.com/requirejs/requirejs).
 One-file, browser or server, no additional fats, es5+ compatible, no babels, gluten-free.
